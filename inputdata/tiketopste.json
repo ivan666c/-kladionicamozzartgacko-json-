@@ -1,0 +1,40 @@
+{
+    "imeKladionice":"Mozzart",
+    "adresa":"Mese Selimovica 3",
+    "brojTelefona":"065-454-333",
+    "tiket":[
+        {
+            "tiketId":"242589248",
+            "radnikId":"34634",
+            "imeRadnika":"Jelena Markovic"
+        },
+        {
+            "parId":"2222",
+            "imeTima1":"Bajern Minhen",
+            "imeTima2":"Union Berlin",
+            "pobjedaBajernMinhenaKvota":1.25,
+            "pobjedaUnionBerlinaKvota":12.50,
+            "nerijeseno(X)Kvota":6.50
+        },
+        {
+            "parId":"3333",
+            "imeTima1":"Real Madrid",
+            "imeTima2":"Barcelona",
+            "pobjedaRealMadridaKvota":1.80,
+            "pobjedaBarceloneKvota":7.00,
+            "nerijeseno(X)Kvota":3.80
+        },
+        {
+        "odigranaKombinacija":[
+            {
+                "pardId":"2222",
+                "pobjedaBajernMinhenaKvota":1.25
+            },
+            {
+                "pardId":"3333",
+                "pobjedaRealMadridaKvota":1.80
+            }
+        ]
+    }
+]
+}
