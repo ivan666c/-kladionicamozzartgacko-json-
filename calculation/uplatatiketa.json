@@ -1,0 +1,32 @@
+{
+    "imeKladionice":"Mozzart",
+    "adresa":"Mese Selimovica 3",
+    "brojTelefona":"065-454-333",
+    "tiket":[
+        {
+            "tiketId":"242589248",
+            "radnikId":"34634",
+            "imeRadnika":"Jelena Markovic"
+        },
+        {
+                "odigranaKombinacija":[
+                    {
+                        "pardId":"2222",
+                        "pobjedaBajernMinhenaKvota":1.25
+                    },
+                    {
+                        "pardId":"3333",
+                        "pobjedaRealMadridaKvota":1.80
+                    },
+
+        {
+            "datumUplate":"2022-16-03",
+            "vrijednostUplate":12,
+            "dobitakTiketa":30.5,
+            "pdv":10,
+            "dobitakTiketaSaPdv":27.45
+        }
+    ]
+}
+    ]
+}
